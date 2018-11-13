@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyLangApp</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="name">اسم</string>
+    <string name="password">كلمه السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="change_language">غير اللغة</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyLangApp</string>
+    <string name="welcome">स्वागत हे</string>
+    <string name="name">नाम</string>
+    <string name="password">पारण शब्द</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="change_language">भाषा बदलो</string>
+</resources>

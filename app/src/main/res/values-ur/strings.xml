@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyLangApp</string>
+
+    <string name="welcome">خوش آمدید</string>
+    <string name="name">نام</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="login">میں لاگ ان کریں</string>
+    <string name="change_language">زبان تبدیل کریں</string>
+
+</resources>
